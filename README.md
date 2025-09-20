@@ -1,9 +1,15 @@
 # Spam Email Classifier
 
-Classify messages as spam or not spam using NLP techniques.
+## Overview
+A text classification project to detect spam emails using machine learning.
 
-## Steps
-1. Load dataset
-2. Preprocess data
-3. Train model
-4. Evaluate model
+## Tech Stack
+- Python, Scikit-learn, Pandas, NumPy
+
+## Results
+- High precision in detecting spam using Naive Bayes and Logistic Regression
+
+## How to Run
+1. Clone the repo  
+2. Install requirements: pip install -r requirements.txt  
+3. Run: python main.py
